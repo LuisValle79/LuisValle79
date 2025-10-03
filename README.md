@@ -1,44 +1,51 @@
-## Hi there 👋
-# Hi, I'm Luis Valle 👋
+👨‍💻 Luis Alberto Valle Coronado
+🚀 Full Stack Developer | 🎯 Ethical Hacker | 📚 Systems Analyst Student
+📌 About Me
 
-![Profile Picture](https://avatars.githubusercontent.com/u/[tu-id-de-usuario]?v=4)  <!-- Reemplaza con tu avatar o una imagen personal -->
+🔹 Passionate about technology, security, and scalable software solutions.
+🔹 Currently studying Systems Analysis at Instituto Valle Grande.
+🔹 Building projects with a focus on clean code, performance, and security.
 
-## About Me
-- 📫 How to reach me: luisvalle231990@gmail.com
-- 🎓 Student in System Analyst in Instituto Valle Grande
-- 💻 Developer Full Stack and Hacking Ethical
+📧 Contact: luisvalle231990@gmail.com
 
-## Skills
-![Skills](https://skillicons.dev/icons?i=js,react,html,css,java,unity,python,spring,azure,nodejs,aws)  
-<!-- Agrega más íconos separando con comas. Lista completa en https://skillicons.dev -->
+🛠 Skills & Tools
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-alberto-valle-coronado-723110275/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@LUISALBERTOVALLECORONADO)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luisvalleasesorinmobiliario/)  
-<!-- Copia estos badges y cambia los enlaces. Genera más en https://shields.io -->
+Frontend: React, Angular, Tailwind, Bootstrap, JavaScript (ES6+)
 
-## Achievements
-<!-- GitHub muestra logros automáticamente si los tienes (como "Arctic Code Vault Contributor"). No necesitas agregar nada manual. -->
+Backend: Spring Boot, Node.js, PHP, Laravel
 
-## Highlights
-- 🛠 Developer Program Member
-- ⭐ PRO
+Databases: MySQL, PostgreSQL, Oracle, MongoDB
 
-## Recent Activity
-<!-- Esto se actualizará automáticamente con una GitHub Action (ver Paso 4). Por ahora, deja esto vacío o agrega manualmente. -->
-1. Created new repository [tu-repo]
-2. Pushed commits to [otro-repo]
-<!-- Actualiza manualmente al principio, luego automatiza. -->
+DevOps & Tools: Docker, Git, GitHub Actions, Linux, Bash
 
-Last Updated: [Fecha actual, ej: October 3, 2025]
+Security: Ethical Hacking, PenTesting Basics, OWASP
 
-## Organizations
-![Org1](https://github.com/[org-name].png) <!-- Agrega logos de organizaciones si perteneces a alguna -->
+Other: Google Apps Script, Python (Data Analysis with Pandas, Matplotlib)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tu-usuario]&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=dark&hide_border=true)
+🏆 Achievements & Highlights
 
-## My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+✅ Member of GitHub Developer Program
+⭐ Holder of PRO Status on GitHub
+📂 Contributed to multiple open-source & personal projects
+⚡ Enthusiastic about learning new frameworks and architectures (DDD, Microservices, APIs REST)
+
+📊 GitHub Stats
+
+🔥 Recent Activity
+
+🆕 Created new repository: luis-valle/project-x
+
+🔧 Pushed commits to: luis-valle/portfolio
+
+💡 Exploring: DDD, Microservices, and Cloud Deployments
+
+🌐 Let's Connect
+
+💼 LinkedIn
+ (pon tu link aquí)
+
+🐦 Twitter
+ (si lo usas)
+
+💻 Portfolio Website
+ (si ya lo tienes o piensas crear uno)
