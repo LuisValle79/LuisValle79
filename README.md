@@ -1,44 +1,81 @@
-## Hi there 👋
-# Hi, I'm Luis Valle 👋
+<!-- 🌟 PERFIL PROFESIONAL DE LUIS VALLE 🌟 -->
 
-![Profile Picture](https://avatars.githubusercontent.com/u/[tu-id-de-usuario]?v=4)  <!-- Reemplaza con tu avatar o una imagen personal -->
+# 👨‍💻 Hi, I'm Luis Alberto Valle Coronado
 
-## About Me
-- 📫 How to reach me: luisvalle231990@gmail.com
-- 🎓 Student in System Analyst in Instituto Valle Grande
-- 💻 Developer Full Stack and Hacking Ethical
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=200&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35)
 
-## Skills
-![Skills](https://skillicons.dev/icons?i=js,react,html,css,java,unity,python,spring,azure,nodejs,aws)  
-<!-- Agrega más íconos separando con comas. Lista completa en https://skillicons.dev -->
+## 📌 About Me
+🎓 Student of **Systems Analysis** at *Instituto Valle Grande*  
+💻 Passionate **Full Stack Developer** & **Ethical Hacker**  
+🚀 Focused on building scalable, secure, and modern applications  
+🌱 Always learning — Cloud, Microservices & Cybersecurity  
+📧 Contact: **luisvalle231990@gmail.com**
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-alberto-valle-coronado-723110275/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@LUISALBERTOVALLECORONADO)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luisvalleasesorinmobiliario/)  
-<!-- Copia estos badges y cambia los enlaces. Genera más en https://shields.io -->
+---
 
-## Achievements
-<!-- GitHub muestra logros automáticamente si los tienes (como "Arctic Code Vault Contributor"). No necesitas agregar nada manual. -->
+## 🧠 Skills & Tools
 
-## Highlights
-- 🛠 Developer Program Member
-- ⭐ PRO
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,python,nodejs,express,git,github,linux,azure,aws,docker,postgresql,mysql&perline=8)
 
-## 🕓 Recent Activity
-1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/luisvalle/dashboard-seguridad-valle-grande)
-2. 🔧 Pushed commits to [luisvalle/portfolio](https://github.com/luisvalle/portfolio)
-3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/luisvalle/sistema-escolar-auth)
+---
 
-_Last Updated: October 04, 2025_
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alberto-valle-coronado-723110275/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LUISALBERTOVALLECORONADO)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/luisvalleasesorinmobiliario/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?logo=vercel&logoColor=white)](https://github.com/LuisValle79)
+
+---
+
+## 🏆 Achievements & Highlights
+- 🛠 **GitHub Developer Program Member**
+- ⭐ **GitHub PRO Status**
+- 💡 Passion for innovation and impactful tech solutions
+- 🎯 Exploring **AI + Cloud Integration**
+
+---
+
+## 🕓 Recent Activity  
+<!--START_SECTION:activity-->
+1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/LuisValle79/dashboard-seguridad-valle-grande)
+2. 🔧 Pushed commits to [LuisValle79/portfolio](https://github.com/LuisValle79/portfolio)
+3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/LuisValle79/sistema-escolar-auth)
+<!--END_SECTION:activity-->
+
+🕒 *Last Updated Automatically by GitHub Actions*
+
+---
 
 ## 🏢 Organizations
 ![Valle Grande](https://github.com/ValleGrande.png)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisvalle&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisvalle&theme=dark&hide_border=true)
+---
 
-## 💻 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvalle&theme=dark&hide_border=true&layout=compact)
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisValle79&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisValle79&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 💻 Languages & Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 💬 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## ⚙️ Automated Updates
+> 🧩 This README updates automatically with:
+> - ✅ **Recent activity** (via GitHub Actions)
+> - ✅ **Daily quote refresh**
+> - ✅ **Last update timestamp**
+
+_Last Updated: {{ DATE_AUTO }}_
