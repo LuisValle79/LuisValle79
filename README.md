@@ -26,18 +26,18 @@
 
 ---
 
-## ⚙️ Skills & Tools
+##  Skills & Tools
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,spring,python,nodejs,express,git,github,linux,azure,aws,docker,postgresql,mysql,flutter,figma&perline=9" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java,spring,python,nodejs,git,github,linux,azure,aws,docker,postgresql,mysql,flutter,figma&perline=9" 
     alt="Tech Stack"
   />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-723110275/" target="_blank">
@@ -52,13 +52,6 @@
   <a href="https://github.com/LuisValle79" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Open%20to%20Collaborations-%2300BFFF?style=for-the-badge&logo=handshake&logoColor=white" 
-    alt="Collaborate"
-  />
 </p>
 
 ---
