@@ -89,14 +89,14 @@
 
 ---
 
-## ⚙️ Automated Updates  
-> 🤖 This profile updates itself automatically with:
+##  Automated Updates  
+>  This profile updates itself automatically with:
 > - 🕒 **Daily activity updates**
 > - 💬 **Quote refresh every morning**
 > - 🗓️ **Auto “Last Updated” timestamp**
 
 <p align="center">
-  <b>⏰ Last Updated:</b> <i>October 05, 2025</i>
+  <b> Last Updated:</b> <i>October 05, 2025</i>
 </p>
 
 ---
