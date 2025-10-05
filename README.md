@@ -31,7 +31,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;☁️+Cloud+and+Cybersecurity+Explorer;🚀+Building+Scalable+%26+Secure+Apps;🌱+Always+Learning+and+Creating" 
-    alt="Typing Animation"
+    alt="Typing Animation" 
   />
 </p>
 
@@ -81,6 +81,7 @@
     alt="divider"
   />
 </p>
+
 
 ---
 
