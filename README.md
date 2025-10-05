@@ -3,6 +3,14 @@
 # 👨‍💻 Hi, I'm Luis Alberto Valle Coronado
 
 <p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=%F0%9F%91%A8%F0%9F%92%BB+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;%F0%9F%92%BB+Full+Stack+Developer+%7C+Ethical+Hacker;%F0%9F%9A%80+Building+Scalable+%26+Secure+Apps;%F0%9F%8C%B1+Learning+AI%2C+Cloud+%26+Cybersecurity" 
+    alt="Typing SVG Animation"
+  />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=0ABCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
