@@ -1,0 +1,26 @@
+name: 🕓 Update "Last Updated" Date in README
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # Cada día a las 9:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🕒 Update Last Updated date
+        run: |
+          DATE=$(TZ='America/Lima' date +"%B %d, %Y - %I:%M %p %Z")
+          sed -i "s|_Last Updated:.*_|_Last Updated: $DATE_|" README.md
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git commit -m "🕓 Auto-update last modified date"
+          git push
