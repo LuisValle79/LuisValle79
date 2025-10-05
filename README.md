@@ -25,20 +25,20 @@
 - 🛠 Developer Program Member
 - ⭐ PRO
 
-## Recent Activity
-<!-- Esto se actualizará automáticamente con una GitHub Action (ver Paso 4). Por ahora, deja esto vacío o agrega manualmente. -->
-1. Created new repository [tu-repo]
-2. Pushed commits to [otro-repo]
-<!-- Actualiza manualmente al principio, luego automatiza. -->
+## 🕓 Recent Activity
+1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/luisvalle/dashboard-seguridad-valle-grande)
+2. 🔧 Pushed commits to [luisvalle/portfolio](https://github.com/luisvalle/portfolio)
+3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/luisvalle/sistema-escolar-auth)
 
-Last Updated: [Fecha actual, ej: October 3, 2025]
+_Last Updated: October 04, 2025_
 
-## Organizations
-![Org1](https://github.com/[org-name].png) <!-- Agrega logos de organizaciones si perteneces a alguna -->
+## 🏢 Organizations
+![Valle Grande](https://github.com/ValleGrande.png)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tu-usuario]&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=dark&hide_border=true)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisvalle&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisvalle&theme=dark&hide_border=true)
 
-## My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 💻 My Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvalle&theme=dark&hide_border=true&layout=compact)
+
