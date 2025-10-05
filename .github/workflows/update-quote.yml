@@ -1,0 +1,24 @@
+name: 🧠 Update Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Cada mañana a las 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh quote section
+        run: |
+          sed -i '/<!--START_SECTION:quote-->/,<!--END_SECTION:quote-->/c\<!--START_SECTION:quote-->\n![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)\n<!--END_SECTION:quote-->' README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -am "💬 Update quote of the day" || exit 0
+          git push
