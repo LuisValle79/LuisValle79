@@ -1,5 +1,36 @@
 <!-- 🌟 PERFIL PROFESIONAL DE LUIS VALLE 🌟 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=👨‍💻+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;💻+Full+Stack+Developer+%7C+Ethical+Hacker;🚀+Building+Scalable+%26+Secure+Apps;🌱+Learning+AI%2C+Cloud+%26+Cybersecurity" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=0ABCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C3FF&height=180&section=header&text=Luis%20Valle%20💻&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+---
+
+## 🧭 About Me  
+
+> 🌎 *"Transforming ideas into clean, scalable, and secure solutions."*
+
+🎓 Student of **Systems Analysis** at *Instituto Valle Grande*  
+💻 Passionate **Full Stack Developer** & **Ethical Hacker**  
+☁️ Focused on **Cloud Computing**, **Microservices**, and **AI Integrations**  
+🔒 
+
+
+
+
+
+
+
+<!-- 🌟 PERFIL PROFESIONAL DE LUIS VALLE 🌟 -->
+
 # 👨‍💻 Hi, I'm Luis Alberto Valle Coronado
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=200&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35)
