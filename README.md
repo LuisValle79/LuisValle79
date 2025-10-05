@@ -89,7 +89,7 @@
 > - 🗓️ **Auto “Last Updated” timestamp**
 
 <p align="center">
-  <b>⏰ Last Updated:</b> <i>{{ DATE_AUTO }}</i>
+  <b>⏰ Last Updated:</b> <i>October 05, 2025</i>
 </p>
 
 ---
