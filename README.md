@@ -33,11 +33,11 @@
 
 # 👨‍💻 Hi, I'm Luis Alberto Valle Coronado
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=200&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=0ABCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=200&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35)
 
 ## 📌 About Me
 🎓 Student of **Systems Analysis** at *Instituto Valle Grande*  
