@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=180&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
 
@@ -72,7 +76,9 @@
 ---
 
 ## 💬 Quote of the Day
+<!--START_SECTION:quote-->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--END_SECTION:quote-->
 
 ---
 
