@@ -30,22 +30,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;☁️+Cloud+and+Cybersecurity+Explorer;🚀+Building+Scalable+%26+Secure+Apps;🌱+Always+Learning+and+Creating" 
-    alt="Typing Animation" 
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,spring,python,nodejs,express,git,github,linux,azure,aws,docker,postgresql,mysql,flutter,figma&perline=9" 
     alt="Tech Stack"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:00CFFF,100:0077FF&height=2&section=footer&reversal=true" 
-    alt="divider"
   />
 </p>
 
@@ -74,14 +60,6 @@
     alt="Collaborate"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:00CFFF,100:0077FF&height=2&section=footer&reversal=true" 
-    alt="divider"
-  />
-</p>
-
 
 ---
 
