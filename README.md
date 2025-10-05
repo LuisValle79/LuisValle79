@@ -1,11 +1,11 @@
 <!-- 🌟 PERFIL PROFESIONAL DE LUIS VALLE 🌟 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👨‍💻+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;💻+Full+Stack+Developer+%7C+Ethical+Hacker;🚀+Building+secure+and+modern+apps;🌱+Always+learning+Cloud+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00C3FF&width=500&lines=👨‍💻+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;💻+Full+Stack+Developer+%7C+Ethical+Hacker;🚀+Building+secure+and+modern+apps;🌱+Learning+Cloud%2C+AI+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=blue&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=LuisValle79&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -86,6 +86,8 @@
 > 🧩 This README updates automatically with:
 > - ✅ **Recent activity** (via GitHub Actions)
 > - ✅ **Daily quote refresh**
-> - ✅ **Automatic “Last Updated” timestamp**
+> - ✅ **Last update timestamp**
 
-_Last Updated: {{ DATE_AUTO }}_
+<p align="center">
+  <b>🕓 Last Updated:</b> <i>{{ DATE_AUTO }}</i>
+</p>
