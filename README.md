@@ -1,21 +1,27 @@
 <!-- 🌟 PERFIL PROFESIONAL DE LUIS VALLE 🌟 -->
 
-# 👨‍💻 Hi, I'm Luis Alberto Valle Coronado
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👨‍💻+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;💻+Full+Stack+Developer+%7C+Ethical+Hacker;🚀+Building+secure+and+modern+apps;🌱+Always+learning+Cloud+and+AI" alt="Typing SVG" />
+</p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=200&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFD,100:00C3FF&height=180&section=header&text=Full%20Stack%20Developer%20💻&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+---
 
 ## 📌 About Me
 🎓 Student of **Systems Analysis** at *Instituto Valle Grande*  
 💻 Passionate **Full Stack Developer** & **Ethical Hacker**  
 🚀 Focused on building scalable, secure, and modern applications  
-🌱 Always learning — Cloud, Microservices & Cybersecurity  
-📧 Contact: **luisvalle231990@gmail.com**
+☁️ Exploring **Cloud, AI, and Microservices**  
+📧 Contact: **[luisvalle231990@gmail.com](mailto:luisvalle231990@gmail.com)**  
 
 ---
 
 ## 🧠 Skills & Tools
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,python,nodejs,express,git,github,linux,azure,aws,docker,postgresql,mysql&perline=8)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,python,nodejs,express,git,github,linux,azure,aws,docker,postgresql,mysql,flutter,figma&perline=8)
 
 ---
 
@@ -31,16 +37,14 @@
 ## 🏆 Achievements & Highlights
 - 🛠 **GitHub Developer Program Member**
 - ⭐ **GitHub PRO Status**
-- 💡 Passion for innovation and impactful tech solutions
-- 🎯 Exploring **AI + Cloud Integration**
+- 💡 Passionate about **AI + Cloud Integration**
+- ⚡ Committed to delivering high-quality, impactful projects
 
 ---
 
 ## 🕓 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/LuisValle79/dashboard-seguridad-valle-grande)
-2. 🔧 Pushed commits to [LuisValle79/portfolio](https://github.com/LuisValle79/portfolio)
-3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/LuisValle79/sistema-escolar-auth)
+<!-- Esta sección se actualizará automáticamente con GitHub Actions -->
 <!--END_SECTION:activity-->
 
 🕒 *Last Updated Automatically by GitHub Actions*
@@ -76,6 +80,6 @@
 > 🧩 This README updates automatically with:
 > - ✅ **Recent activity** (via GitHub Actions)
 > - ✅ **Daily quote refresh**
-> - ✅ **Last update timestamp**
+> - ✅ **Automatic “Last Updated” timestamp**
 
 _Last Updated: {{ DATE_AUTO }}_
