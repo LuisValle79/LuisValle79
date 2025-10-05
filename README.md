@@ -4,10 +4,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=💼+Hi%2C+I'm+Luis+Alberto+Valle+Coronado;💻+Full+Stack+Developer+%26+Cybersecurity+Enthusiast;🚀+Building+Scalable%2C+Secure+and+Modern+Apps;🌐+Exploring+AI%2C+Cloud+%26+Innovation" 
-    alt="Luis Valle - Professional Introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Luis+Alberto+Valle+Coronado+|+Full+Stack+Developer;Code.+Create.+Innovate." 
+    alt="Typing SVG Tech Style"
   />
 </p>
+
 
 
 <p align="center">
