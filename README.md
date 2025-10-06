@@ -57,10 +57,22 @@
 ---
 
 ##  Achievements & Highlights
-- 🛠 **GitHub Developer Program Member**
-- ⭐ **GitHub PRO Status**
-- 💡 Passion for innovation and impactful tech solutions
-- 🎯 Exploring **AI + Cloud Integration**
+🧩 Full Stack Development (Frontend & Backend)
+
+💻 Languages: Java, Python, JavaScript, Dart
+
+⚙️ Frameworks: Spring Boot, Angular, React, Flutter
+
+🗄️ Databases: SQL & NoSQL
+
+🔄 Version Control with Git / GitHub
+
+🚀 Performance optimization & scalability improvements
+
+📋 Requirements analysis & technical documentation
+
+☁️ AI + Cloud Integration Explorer — working with Azure, AWS, and Spring Cloud
+🔥 Passionate about innovation, clean code, and continuous learning
 
 ---
 
