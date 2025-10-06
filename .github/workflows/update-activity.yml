@@ -12,19 +12,17 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🔄 Update activity section
-        uses: readme-activity/update-readme@v1
+      - name: 🔄 Update recent activity
+        uses: Readme-Workflows/recent-activity@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "🔁 Update GitHub activity [skip ci]"
           MAX_LINES: 5
-          TARGET_FILE: README.md
-          TARGET_SECTION_START: "<!--START_SECTION:activity-->"
-          TARGET_SECTION_END: "<!--END_SECTION:activity-->"
 
-      - name: 💾 Commit & Push changes
+      - name: 💾 Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔁 Auto-update GitHub activity [skip ci]" || echo "No changes to commit"
+          git commit -m "🔁 Auto-update activity [skip ci]" || echo "No changes"
           git push
