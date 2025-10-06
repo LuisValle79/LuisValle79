@@ -99,53 +99,55 @@
 
 ---
 
+---
+
 ## 📊 GitHub Analytics & Insights  
 
 <p align="center">
-  <!-- 📈 GitHub Stats -->
+  <!-- 🔹 GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuisValle79&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&custom_title=📈%20My%20GitHub%20Stats" 
-    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=LuisValle79&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF&custom_title=📈%20GitHub%20Statistics" 
+    height="170" 
     alt="GitHub Stats"
   />
   
-  <!-- 🔥 Streak Stats (con fallback automático) -->
+  <!-- 🔹 Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=LuisValle79&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF&currStreakLabel=00BFFF&currStreakNum=00BFFF&sideLabels=00BFFF" 
-    height="165" 
+    src="https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=C9D1D9" 
+    height="170" 
     alt="GitHub Streak"
-    onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true';"
   />
 </p>
 
 <p align="center">
-  <!-- 🧠 Perfil detallado con tarjetas -->
+  <!-- 🔹 Profile Summary Card -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisValle79&theme=tokyonight" 
-    width="95%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisValle79&theme=tokyonight&background=00000000" 
+    width="97%" 
     alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
-  <!-- 💻 Lenguajes más usados -->
+  <!-- 🔹 Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00BFFF" 
-    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=C9D1D9&bg_color=00000000" 
+    height="165" 
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <!-- ⚙️ Gráfico de productividad -->
+  <!-- 🔹 Productive Time -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValle79&theme=tokyonight&utcOffset=-5" 
-    height="160" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValle79&theme=tokyonight&utcOffset=-5&background=00000000" 
+    height="165" 
     alt="Productivity Graph"
   />
 </p>
 
 ---
+
 
 
 
