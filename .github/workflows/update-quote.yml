@@ -8,17 +8,24 @@ on:
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Refresh quote section
         run: |
-          sed -i '/<!--START_SECTION:quote-->/,<!--END_SECTION:quote-->/c\<!--START_SECTION:quote-->\n![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)\n<!--END_SECTION:quote-->' README.md
+          sed -i '/<!--START_SECTION:quote-->/,<!--END_SECTION:quote-->/{
+          /<!--START_SECTION:quote-->/!{/<!--END_SECTION:quote-->/!d;}
+          /<!--START_SECTION:quote-->/a ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+          }' README.md
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git commit -am "💬 Update quote of the day" || exit 0
+          git add README.md
+          git commit -m "💬 Update quote of the day" || echo "No changes to commit"
           git push
