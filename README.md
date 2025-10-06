@@ -59,6 +59,26 @@
 🏆 Achievements & Highlights
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=00C3FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+Java+%7C+Python+%7C+JavaScript+%7C+Dart;⚙️+Spring+Boot+%7C+Angular+%7C+React+%7C+Flutter;☁️+Cloud+%26+AI+Integration+Explorer" alt="Typing Animation" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2300C3FF.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-%23F29111?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Mobile-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-%234DB33D?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-%23F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20Spring%20Cloud-%230072C6?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-%23000000?style=for-the-badge&logo=kali-linux&logoColor=white" /> </p>
 
+💡 Technical Expertise
+
+🧩 Full Stack Development (Frontend & Backend)
+
+💻 Languages: Java, Python, JavaScript, Dart
+
+⚙️ Frameworks: Spring Boot, Angular, React, Flutter
+
+🗄️ Databases: SQL & NoSQL
+
+🔄 Version Control with Git / GitHub
+
+🚀 Performance Optimization & Scalability Improvements
+
+📋 Requirements Analysis & Technical Documentation
+
+☁️ AI + Cloud Integration Explorer — working with Azure, AWS, and Spring Cloud
+
+🔥 Passionate about Innovation, Clean Code, and Continuous Learning
+
 ---
 
 ##  Recent Activity  
