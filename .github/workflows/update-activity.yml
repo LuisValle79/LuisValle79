@@ -8,21 +8,22 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
       - name: 🔄 Update recent GitHub activity
-        uses: Readme-Workflows/recent-activity@v1
+        uses: Readme-Workflows/activity-readme@v1.6.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 5
-          COMMIT_MSG: "🔁 Auto-update GitHub activity [skip ci]"
+          COMMIT_MSG: "🔁 Auto-update recent activity [skip ci]"
 
       - name: 💾 Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔁 Auto-update recent activity [skip ci]" || echo "No changes to commit"
+          git commit -m "🔁 Auto-update GitHub activity [skip ci]" || echo "No changes to commit"
           git push
