@@ -96,7 +96,6 @@
 <p align="center">
   <img src="https://github.com/ValleGrande.png" alt="Valle Grande" width="100"/>
 </p>
-<p align="center"> <a href="https://www.vallegrande.edu.pe/" target="_blank"> <img src="https://github.com/ValleGrande.png" alt="Valle Grande" width="100" style="margin-right: 20px; border-radius: 50%; box-shadow: 0 0 10px rgba(0, 195, 255, 0.6);" /> </a> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DzEZl9sMz69OOYP7F4M7IJEjFL4Lgbv38Q&s" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DzEZl9sMz69OOYP7F4M7IJEjFL4Lgbv38Q&s" alt="Company Logo" width="100" style="border-radius: 50%; box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);" /> </a> </p> <p align="center"> <b>Instituto Valle Grande</b> <br/> <sub>Academic Institution & Innovation Partner</sub> </p>
 
 ---
 
