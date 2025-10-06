@@ -110,14 +110,14 @@
     height="170" 
     alt="GitHub Stats"
   />
-  
+</p>
   <!-- 🔹 Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=C9D1D9" 
     height="170" 
     alt="GitHub Streak"
   />
-</p>
+
 
 <p align="center">
   <!-- 🔹 Profile Summary Card -->
