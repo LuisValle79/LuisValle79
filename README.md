@@ -99,43 +99,54 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Insights  
 
 <p align="center">
-  <!-- Estadísticas generales -->
+  <!-- 📈 GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuisValle79&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true&custom_title=📈+My+GitHub+Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=LuisValle79&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&custom_title=📈%20My%20GitHub%20Stats" 
     height="165" 
     alt="GitHub Stats"
   />
   
-  <!-- Racha de contribuciones -->
+  <!-- 🔥 Streak Stats (con fallback automático) -->
   <img 
-    src="https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&currStreakNum=00BFFF&sideLabels=00BFFF" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=LuisValle79&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF&currStreakLabel=00BFFF&currStreakNum=00BFFF&sideLabels=00BFFF" 
     height="165" 
     alt="GitHub Streak"
+    onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true';"
   />
 </p>
 
 <p align="center">
-  <!-- Actividad en commits, PRs, issues -->
+  <!-- 🧠 Perfil detallado con tarjetas -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisValle79&theme=tokyonight" 
-    width="90%" 
+    width="95%" 
     alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
-  <!-- Lenguajes principales -->
+  <!-- 💻 Lenguajes más usados -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00BFFF" 
     height="160" 
     alt="Top Languages"
   />
 </p>
 
+<p align="center">
+  <!-- ⚙️ Gráfico de productividad -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValle79&theme=tokyonight&utcOffset=-5" 
+    height="160" 
+    alt="Productivity Graph"
+  />
+</p>
+
 ---
+
 
 
 
