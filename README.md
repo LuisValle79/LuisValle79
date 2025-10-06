@@ -111,13 +111,6 @@
     alt="GitHub Stats"
   />
 </p>
-  <!-- 🔹 Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=LuisValle79&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=C9D1D9" 
-    height="170" 
-    alt="GitHub Streak"
-  />
-
 
 <p align="center">
   <!-- 🔹 Profile Summary Card -->
@@ -125,15 +118,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisValle79&theme=tokyonight&background=00000000" 
     width="97%" 
     alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <!-- 🔹 Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisValle79&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=C9D1D9&bg_color=00000000" 
-    height="165" 
-    alt="Top Languages"
   />
 </p>
 
