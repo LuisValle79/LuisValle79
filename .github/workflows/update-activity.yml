@@ -1,8 +1,8 @@
-name: 🧩 Update GitHub Activity
+name: 🔄 Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Ejecuta cada 6 horas
+    - cron: "0 */6 * * *" # Se ejecuta cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -13,14 +13,14 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🔄 Update recent GitHub activity
-        uses: Readme-Workflows/activity-readme@v1.6.1
+      - name: 🧩 Update recent GitHub activity
+        uses: JamesIves/github-activity-readme@v0.3.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 5
-          COMMIT_MSG: "🔁 Auto-update recent activity [skip ci]"
+          COMMIT_MSG: "🔁 Auto-update GitHub activity [skip ci]"
 
-      - name: 💾 Commit & Push changes
+      - name: 💾 Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
