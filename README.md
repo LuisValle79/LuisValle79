@@ -83,9 +83,9 @@
 
 ##  Recent Activity  
 <!--START_SECTION:activity-->
-1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/LuisValle79/dashboard-seguridad-valle-grande)
-2. 🔧 Pushed commits to [LuisValle79/portfolio](https://github.com/LuisValle79/portfolio)
-3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/LuisValle79/sistema-escolar-auth)
+1. 🆕 Created new repository [dashboard-seguridad-valle-grande](https://github.com/LuisValle79/powerbicanales)
+2. 🔧 Pushed commits to [LuisValle79/portfolio](https://github.com/LuisValle79/)
+3. 💡 Improved authentication system in [sistema-escolar-auth](https://github.com/valle79/systemschool)
 <!--END_SECTION:activity-->
 
 🕒 *Last Updated Automatically by GitHub Actions*
