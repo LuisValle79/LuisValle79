@@ -15,12 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Refresh quote section
+      - name: Refresh quote section safely (using awk)
         run: |
-          sed -i '/<!--START_SECTION:quote-->/,<!--END_SECTION:quote-->/{
-          /<!--START_SECTION:quote-->/!{/<!--END_SECTION:quote-->/!d;}
-          /<!--START_SECTION:quote-->/a ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-          }' README.md
+          awk '
+          /<!--START_SECTION:quote-->/ {print; print "![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)"; skip=1; next}
+          /<!--END_SECTION:quote-->/ {skip=0}
+          skip==0 {print}
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit and push
         run: |
