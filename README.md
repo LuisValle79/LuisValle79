@@ -99,8 +99,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Analytics & Insights  
 
 <p align="center">
@@ -121,20 +119,7 @@
   />
 </p>
 
-<p align="center">
-  <!-- 🔹 Productive Time -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValle79&theme=tokyonight&utcOffset=-5&background=00000000" 
-    height="165" 
-    alt="Productivity Graph"
-  />
-</p>
-
 ---
-
-
-
-
 
 ##  Languages & Technologies  
 
