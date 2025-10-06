@@ -9,17 +9,22 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update activity section
-        uses: JamesIves/github-activity-readme@v0.2.2
+      - name: 🔄 Update activity section
+        uses: readme-activity/update-readme@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+          TARGET_SECTION_START: "<!--START_SECTION:activity-->"
+          TARGET_SECTION_END: "<!--END_SECTION:activity-->"
 
-      - name: Commit changes
+      - name: 💾 Commit & Push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git commit -am "🔁 Update recent GitHub activity" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔁 Auto-update GitHub activity [skip ci]" || echo "No changes to commit"
           git push
